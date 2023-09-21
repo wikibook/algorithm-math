@@ -9,7 +9,7 @@
 
 이 책의 도서 페이지 링크는 다음과 같습니다.
 
-* [https://wikibook.co.kr/77algo](https://wikibook.co.kr/77algo)
+* [https://wikibook.co.kr/algorithm-math/](https://wikibook.co.kr/algorithm-math/)
 
 <br />
 
@@ -19,25 +19,25 @@
 ### 코드
 8/18 업데이트: 모든 프로그램은 자동 채점 시스템에서 정답 판정(AC)이 되는 것으로 확인되었습니다.
 
-* [C++ 프로그램（100% 완성)](https://github.com/wikibook/77algo/tree/main/codes/cpp)
-* [파이썬 프로그램（100% 완성)](https://github.com/wikibook/77algo/tree/main/codes/python)
-* [자바 프로그램（100% 완성)](https://github.com/wikibook/77algo/tree/main/codes/java)
+* [C++ 프로그램（100% 완성)](https://github.com/wikibook/algorithm-math/tree/main/codes/cpp)
+* [파이썬 프로그램（100% 완성)](https://github.com/wikibook/algorithm-math/tree/main/codes/python)
+* [자바 프로그램（100% 완성)](https://github.com/wikibook/algorithm-math/tree/main/codes/java)
 
 ### 연습문제 해답
 각 장별 해설과 C++, 파이썬의 소스 코드는 아래 링크에서 확인할 수 있습니다.
 
 | 장 | 제목 | 소스 코드 링크 |
 |:---|:---|:---|
-| 1장 | 알고리즘과 계산량 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap01) |
-| 2장 | 누적 합 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap02) |
-| 3장 | 바이너리 서치 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap03) |
-| 4장 | 동적 계획 알고리즘 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap04) |
-| 5장 | 수학적 문제 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap05) |
-| 6장 | 고찰 테크닉 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap06) |
+| 1장 | 알고리즘과 계산량 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap01) |
+| 2장 | 누적 합 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap02) |
+| 3장 | 바이너리 서치 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap03) |
+| 4장 | 동적 계획 알고리즘 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap04) |
+| 5장 | 수학적 문제 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap05) |
+| 6장 | 고찰 테크닉 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap06) |
 | 7장 | 휴리스틱 | 도전 문제 없음 |
-| 8장 | 데이터 구조와 쿼리 처리 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap08) |
-| 9장 | 그래프 알고리즘 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/chap09) |
-| 10장 | 종합 문제 | [링크](https://github.com/wikibook/77algo/tree/main/editorial/final) |
+| 8장 | 데이터 구조와 쿼리 처리 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap08) |
+| 9장 | 그래프 알고리즘 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/chap09) |
+| 10장 | 종합 문제 | [링크](https://github.com/wikibook/algorithm-math/tree/main/editorial/final) |
 
 <br />
 
