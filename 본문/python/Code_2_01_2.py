@@ -1,2 +1,2 @@
-A = list(map(int, input().split()))
-print(A[0] + A[1] + A[2])
+A = map(int, input().split())
+print(sum(A))
